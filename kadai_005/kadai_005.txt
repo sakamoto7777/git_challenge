@@ -15,7 +15,4 @@ sakamotoryotaro@ryu git_challenge % git commit -m "日本語訳を追記
 sakamotoryotaro@ryu git_challenge % git log --oneline
 66098d6 (HEAD -> main) 日本語訳を追記
 138cc80 hello_world.txtを追加
-sakamotoryotaro@ryu git_challenge % mkdir kadai_005
-sakamotoryotaro@ryu git_challenge % cd kadai_005
-sakamotoryotaro@ryu kadai_005 % touch kadai_005.txt
-sakamotoryotaro@ryu kadai_005 % 
+sakamotoryotaro@ryu git_challenge % 
